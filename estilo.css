@@ -1,0 +1,44 @@
+p{
+    font-family: Verdana;
+    color: green;
+}
+
+#Unico{
+    color: purple;
+}
+
+h1{
+    background-color: red;
+}
+
+ul{
+    background-color: blue;
+}
+
+ol{
+    color: chartreuse;
+}
+
+button{
+    background-color: goldenrod;
+}
+
+a{
+    background-color:goldenrod;
+}
+
+.nome{
+    color: red;
+}
+
+span{
+    background-color: gold;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+h1, .nome{
+    color: goldenrod;
+}
